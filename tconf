@@ -1,0 +1,10 @@
+
+[agent]
+hostname = "server52"
+[[outputs.mongodb]]
+dsn = "mongodb+srv://test:test@sanenomore.mteelpf.mongodb.net/?retryWrites=true&w=majority"
+database = "servers"
+[[inputs.nginx]]
+[[inputs.system]]
+[[inputs.mem]]
+[[inputs.cpu]]

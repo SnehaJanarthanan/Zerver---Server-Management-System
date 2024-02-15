@@ -1,0 +1,194 @@
+Windows Exploit Suggester 1.04 ( https://github.com/bitsadmin/wesng/ )
+[+] Parsing systeminfo output
+[+] Operating System
+    - Name: Windows 11 Version 22H2 for x64-based Systems
+    - Generation: 11
+    - Build: 22621
+    - Version: 22H2
+    - Architecture: x64-based
+    - Installed hotfixes (4): KB5033920, KB5012170, KB5034123, KB5032393
+[+] Loading definitions
+    - Creation date of definitions: 20240203
+[+] Determining missing patches
+[!] Found vulnerabilities!
+
+Date: 20231109
+CVE: CVE-2022-44687
+KB: KBRelease Notes
+Title: Raw Image Extension Remote Code Execution Vulnerability
+Affected product: Raw Image Extension on Windows 11 Version 22H2 for x64-based Systems
+Affected component: Microsoft
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20230411
+CVE: CVE-2023-28291
+KB: KBUpdate Information
+Title: Raw Image Extension Remote Code Execution Vulnerability
+Affected product: Raw Image Extension on Windows 11 Version 22H2 for x64-based Systems
+Affected component: Microsoft
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20230411
+CVE: CVE-2023-28292
+KB: KBUpdate Information
+Title: Raw Image Extension Remote Code Execution Vulnerability
+Affected product: Raw Image Extension on Windows 11 Version 22H2 for x64-based Systems
+Affected component: Microsoft
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20230629
+CVE: CVE-2023-24897
+KB: KB5027119
+Title: .NET, .NET Framework, and Visual Studio Remote Code Execution Vulnerability
+Affected product: Microsoft .NET Framework 3.5 AND 4.8.1 on Windows 11 Version 22H2 for x64-based Systems
+Affected component: Microsoft
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20230613
+CVE: CVE-2023-29326
+KB: KB5027119
+Title: .NET Framework Remote Code Execution Vulnerability
+Affected product: Microsoft .NET Framework 3.5 AND 4.8.1 on Windows 11 Version 22H2 for x64-based Systems
+Affected component: Microsoft
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20230629
+CVE: CVE-2023-24895
+KB: KB5027119
+Title: .NET, .NET Framework, and Visual Studio Remote Code Execution Vulnerability
+Affected product: Microsoft .NET Framework 3.5 AND 4.8.1 on Windows 11 Version 22H2 for x64-based Systems
+Affected component: Microsoft
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20230818
+CVE: CVE-2023-24936
+KB: KB5027119
+Title: .NET, .NET Framework, and Visual Studio Elevation of Privilege Vulnerability
+Affected product: Microsoft .NET Framework 3.5 AND 4.8.1 on Windows 11 Version 22H2 for x64-based Systems
+Affected component: Microsoft
+Severity: Moderate
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20230629
+CVE: CVE-2023-29331
+KB: KB5027119
+Title: .NET, .NET Framework, and Visual Studio Denial of Service Vulnerability
+Affected product: Microsoft .NET Framework 3.5 AND 4.8.1 on Windows 11 Version 22H2 for x64-based Systems
+Affected component: Microsoft
+Severity: Important
+Impact: Denial of Service
+Exploit: n/a
+
+Date: 20230613
+CVE: CVE-2023-32030
+KB: KB5027119
+Title: .NET and Visual Studio Denial of Service Vulnerability
+Affected product: Microsoft .NET Framework 3.5 AND 4.8.1 on Windows 11 Version 22H2 for x64-based Systems
+Affected component: Microsoft
+Severity: Important
+Impact: Denial of Service
+Exploit: n/a
+
+Date: 20230912
+CVE: CVE-2023-32051
+KB: KBUpdate Information
+Title: Raw Image Extension Remote Code Execution Vulnerability
+Affected product: Raw Image Extension on Windows 11 Version 22H2 for x64-based Systems
+Affected component: Microsoft
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20231121
+CVE: CVE-2023-36796
+KB: KB5031217
+Title: Visual Studio Remote Code Execution Vulnerability
+Affected product: Microsoft .NET Framework 3.5 AND 4.8.1 on Windows 11 Version 22H2 for x64-based Systems
+Affected component: Microsoft
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20231114
+CVE: CVE-2023-36794
+KB: KB5031217
+Title: Visual Studio Remote Code Execution Vulnerability
+Affected product: Microsoft .NET Framework 3.5 AND 4.8.1 on Windows 11 Version 22H2 for x64-based Systems
+Affected component: Microsoft
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20231114
+CVE: CVE-2023-36793
+KB: KB5031217
+Title: Visual Studio Remote Code Execution Vulnerability
+Affected product: Microsoft .NET Framework 3.5 AND 4.8.1 on Windows 11 Version 22H2 for x64-based Systems
+Affected component: Microsoft
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20231114
+CVE: CVE-2023-36792
+KB: KB5031217
+Title: Visual Studio Remote Code Execution Vulnerability
+Affected product: Microsoft .NET Framework 3.5 AND 4.8.1 on Windows 11 Version 22H2 for x64-based Systems
+Affected component: Microsoft
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20231102
+CVE: CVE-2023-36788
+KB: KB5031217
+Title: .NET Framework Remote Code Execution Vulnerability
+Affected product: Microsoft .NET Framework 3.5 AND 4.8.1 on Windows 11 Version 22H2 for x64-based Systems
+Affected component: Microsoft
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20231117
+CVE: CVE-2023-36560
+KB: KB5032007
+Title: ASP.NET Security Feature Bypass Vulnerability
+Affected product: Microsoft .NET Framework 3.5 AND 4.8.1 on Windows 11 Version 22H2 for x64-based Systems
+Affected component: Microsoft
+Severity: Important
+Impact: Security Feature Bypass
+Exploit: n/a
+
+Date: 20240126
+CVE: CVE-2023-36049
+KB: KB5032007
+Title: .NET, .NET Framework, and Visual Studio Elevation of Privilege Vulnerability
+Affected product: Microsoft .NET Framework 3.5 AND 4.8.1 on Windows 11 Version 22H2 for x64-based Systems
+Affected component: Microsoft
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+[-] Missing patches: 5
+    - KB5027119: patches 6 vulnerabilities
+    - KB5031217: patches 5 vulnerabilities
+    - KBUpdate Information: patches 3 vulnerabilities
+    - KB5032007: patches 2 vulnerabilities
+    - KBRelease Notes: patches 1 vulnerability
+[I] KB with the most recent release date
+    - ID: KB5032007
+    - Release date: 20240126
+[+] Done. Displaying 17 of the 17 vulnerabilities found.

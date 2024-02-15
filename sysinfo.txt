@@ -1,0 +1,52 @@
+
+Host Name:                 DESKTOP-SNEHA
+OS Name:                   Microsoft Windows 11 Home Single Language
+OS Version:                10.0.22621 N/A Build 22621
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          snehjanarthanan@outlook.com
+Registered Organization:   N/A
+Product ID:                00342-42597-51828-AAOEM
+Original Install Date:     18-02-2023, 10:59:46
+System Boot Time:          24-01-2024, 06:34:11
+System Manufacturer:       Dell Inc.
+System Model:              Inspiron 14 5418
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 140 Stepping 2 GenuineIntel ~2496 Mhz
+BIOS Version:              Dell Inc. 2.17.0, 14-02-2023
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              00004009
+Time Zone:                 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+Total Physical Memory:     16,123 MB
+Available Physical Memory: 3,240 MB
+Virtual Memory: Max Size:  26,875 MB
+Virtual Memory: Available: 10,024 MB
+Virtual Memory: In Use:    16,851 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-SNEHA
+Hotfix(s):                 4 Hotfix(s) Installed.
+                           [01]: KB5033920
+                           [02]: KB5012170
+                           [03]: KB5034123
+                           [04]: KB5032393
+Network Card(s):           2 NIC(s) Installed.
+                           [01]: Intel(R) Wi-Fi 6 AX201 160MHz
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     172.16.1.4
+                                 IP address(es)
+                                 [01]: 172.16.64.129
+                                 [02]: fe80::8679:587d:73d5:246a
+                           [02]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
